@@ -55,9 +55,25 @@ main {
 .p {
     text-align: left;
 }
+
+
 main > h2 {
     text-align: left;
+    line-height: 10px;
     padding: 10px;
+}
+h3 {
+    text-indent: -1.0cm;
+    font-size: 1.5em;
+}
+
+main > .right {
+    font-size: 1.5em;
+    text-indent:3.4cm;
+}
+main > .ident {
+    font-size: 1.5em;
+    text-indent: 3.7cm;
 }
 
 
