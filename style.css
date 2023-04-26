@@ -82,7 +82,9 @@ main > .ident {
     text-indent: 3.7cm;
 }
 
-
+img {
+    padding-left: 30px;
+}
 
 ul {
     font-size: 2em;
